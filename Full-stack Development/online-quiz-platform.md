@@ -1,11 +1,11 @@
-##Online Quiz Platform
+## Online Quiz Platform
 
 Description: Users can create, take, and manage quizzes, with results tracking. 
 
 
 Features: User login, quiz creation, timer, score calculation, results. 
 
-##Checklist
+## Checklist
 Authentication for users and admins. 
 
 CRUD for quizzes and questions. 
