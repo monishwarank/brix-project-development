@@ -1,59 +1,43 @@
-### **Neighborhood Community Forum** 
+# Neighborhood Community Forum
 
-  
+**Project Description**
 
-#### Project Description 
+A web platform that serves as a social hub for neighborhood communities, allowing residents to discuss local issues, share news, and organize events.
 
-A web platform serving as a social hub for neighborhood communities, enabling residents to discuss local issues, share news, and organize events. 
+**Requirements**
 
-  
+- **Admin Dashboard**: Moderate posts, manage user accounts, and handle reported issues.
 
-#### Requirements 
+- **Resident Dashboard**: Join neighborhood groups, create posts, and comment on discussions.
 
-- **Admin Dashboard**: Moderate posts, manage accounts, handle issues. 
+- **Event Organization**: Feature for creating and managing events.
 
-- **Resident Dashboard**: Join groups, create posts, comment on discussions. 
+- **Voting and Polling**: For neighborhood decisions.
 
-- **Event Management**: Create/manage events. 
+- **Notification System**: For new posts, events, and announcements.
 
-- **Voting and Polls**: For community decisions. 
+**Tech Stack**
 
-- **Notification System**: For posts, events, and announcements. 
+- Any frontend language.
 
-  
+- Firebase for the database.
 
-#### Tech Stack 
+**Checklist**
 
-- Any frontend language. 
+- Separate authentication for Admins and Residents.
 
-- Firebase for the database. 
+- CRUD operations for posts, comments, and events.
 
-  
+- Real-time updates for new posts and event status.
 
-#### Checklist 
+- Polls and voting features.
 
-- Separate authentication for Admins and Residents. 
+**Evaluation**
 
-- CRUD operations for posts, comments, events. 
+- Completion of the project with emphasis on usability.
 
-- Real-time updates for posts and event status. 
+- Backend and database integration.
 
-- Voting features for decisions. 
+- Extra points for features like interactive maps.
 
-  
-
-#### Evaluation 
-
-- Usability and real-time interaction. 
-
-- Backend and database integration. 
-
-- Interactive maps and local services integration earn extra points. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
---- 
-
-  
+---

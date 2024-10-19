@@ -1,65 +1,51 @@
-### **Freelance Job Management System** 
+# Freelance Job Management System
 
-  
+**Project Description**
 
-#### Project Description 
+An intermediate web application where freelancers can find job postings, apply for projects, and manage ongoing work. Clients can post projects, hire freelancers, and track progress.
 
-An intermediate web application where freelancers can find job postings, apply for projects, and manage ongoing work. Clients can post projects, hire freelancers, and track progress. 
+**Requirements**
 
-  
+- **Admin Dashboard**: Oversee platform activities and user accounts.
 
-#### Requirements 
+- **Freelancer Dashboard**: View projects, submit proposals, manage tasks, and track payment status.
 
-- **Admin Dashboard**: Oversee platform activities and user accounts. 
+- **Client Dashboard**: Post projects, hire freelancers, track progress (Proposal Submitted, Hired, In Progress, Completed), and make payments.
 
-- **Freelancer Dashboard**: View projects, submit proposals, manage tasks, track payments. 
+- **Messaging System**: For communication between freelancers and clients.
 
-- **Client Dashboard**: Post projects, hire freelancers, track progress, and make payments. 
+- **Review and Rating System**: For freelancers.
 
-- **Messaging System**: For freelancer-client communication. 
+**Tech Stack**
 
-- **Review and Rating System**: For freelancers. 
+- Any frontend language.
 
-  
+- Firebase for the database.
 
-#### Tech Stack 
+**Checklist**
 
-- Any frontend language. 
+- Separate authentication for Admins, Freelancers, and Clients.
 
-- Firebase for the database. 
+- CRUD operations for project postings and freelancer proposals.
 
-  
+- Real-time updates for project status.
 
-#### Checklist 
+- Payment tracking.
 
-- Separate authentication for Admins, Freelancers, and Clients. 
+**Evaluation**
 
-- CRUD operations for project postings and proposals. 
+- Completeness of the project.
 
-- Real-time project status updates. 
+- Frontend development and database integration.
 
-- Payment tracking. 
+- Additional backend features like payment processing and chat.
 
-  
+- Creativity add-ons earn extra marks.
 
-#### Evaluation 
+**References**
 
-- Completeness of the project. 
+- [Upwork](https://www.upwork.com/freelance-jobs/)
 
-- Frontend development and database integration. 
+- [Truelancer](https://www.truelancer.com/freelance-jobs/)
 
-- Bonus points for backend features like payment processing and chat. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
-#### References 
-
-- [Upwork](https://www.upwork.com/freelance-jobs/) 
-
-- [Truelancer](https://www.truelancer.com/freelance-jobs) 
-
-  
-
---- 
+---

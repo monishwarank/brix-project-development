@@ -1,30 +1,34 @@
-###  **Project Allocation and Management System** 
+# Project Allocation and Management System 
 
   
 
-#### Project Description 
+**Project Description**   
 
-A web application for organizations to allocate projects, monitor progress, and facilitate collaboration among teams. 
-
-  
-
-#### Requirements 
-
-- **Admin Dashboard**: Manage projects, assign leads, track progress. 
-
-- **Project Lead Dashboard**: Oversee projects, manage team members, track tasks, set deadlines. 
-
-- **Team Member Dashboard**: View tasks, update progress, communicate with leads. 
-
-- **Real-time Updates**: For task completion and milestones. 
-
-- **Cloud Integration**: Store project-related documents. 
-
-- **Notifications**: For task updates, deadlines, and status changes. 
+A web application that allows organizations to allocate projects to team members, track progress, and manage collaboration. Project leads can oversee multiple projects, monitor tasks, and ensure timely completion. 
 
   
 
-#### Tech Stack 
+**Requirements** 
+
+  
+
+- **Admin Dashboard**: Manage projects, assign project leads, and track progress. 
+
+- **Project Lead Dashboard**: Oversee projects, manage team members, and track task progress. 
+
+- **Team Member Dashboard**: View assigned tasks, update progress, and communicate with project leads. 
+
+- **Real-Time Updates**: For task completion and project milestones. 
+
+- **Cloud Storage Integration**: For storing documents (e.g., requirement documents, reports). 
+
+- **Notifications**: For task updates, deadlines, and project status changes. 
+
+  
+
+**Tech Stack** 
+
+  
 
 - Any frontend language. 
 
@@ -32,28 +36,34 @@ A web application for organizations to allocate projects, monitor progress, and 
 
   
 
-#### Checklist 
-
-- Separate authentication for Admins, Project Leads, and Team Members. 
-
-- CRUD operations for projects, tasks, and roles. 
-
-- Real-time updates for tasks, milestones, and notifications. 
-
-- Progress Tracking Dashboard with charts/graphs. 
+**Checklist** 
 
   
 
-#### Evaluation 
+- Separate authentication for Admins, Project Leads, and Team Members. 
 
-- Project and task management completeness. 
+- CRUD operations for projects, tasks, and user roles. 
 
-- Integration between frontend and backend. 
+- Real-time updates for task progress and project milestones. 
 
-- Real-time tracking and updating functionalities. 
+- Progress tracking dashboard with charts and graphs. 
 
-- Creativity add-ons earn extra marks. 
+  
+
+**Evaluation** 
+
+  
+
+- Completeness of the project and task management features. 
+
+- Seamless frontend and Firebase integration. 
+
+- Real-time tracking functionalities. 
+
+- Additional features like project analytics and time tracking. 
 
   
 
 --- 
+
+  

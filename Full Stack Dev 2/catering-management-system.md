@@ -1,59 +1,33 @@
-### **Catering Management System** 
+# Catering Management System
 
-  
+**Project Description**  
+An intermediate-level web application that allows individuals or organizations to post catering service requirements for events and helps catering service providers connect with them.
 
-#### Project Description 
+**Requirements**
 
-A web application connecting users seeking catering services with service providers, facilitating secure communication and service exchange. 
+- **Admin Dashboard**: Manage user roles and review catering posts.
+- **Service Seeker Dashboard**: Post catering requirements and manage offers.
+- **Service Provider Dashboard**: View requests, send offers, and update service status.
+- **Secure Messaging System**: For communication.
+- **Cloud Storage Integration**: For service agreements and event details.
+- **Payment Gateway Integration**: For secure transactions.
 
-  
+**Tech Stack**
 
-#### Requirements 
+- Any frontend language.
+- Firebase for the database.
 
-- **Admin Dashboard**: Manage user roles, review posts, monitor activities. 
+**Checklist**
 
-- **Service Seeker Dashboard**: Post requirements, manage offers, review providers. 
+- Separate authentication for Admins, Service Seekers, and Service Providers.
+- CRUD operations for service requests.
+- Secure messaging system.
+- Real-time updates for service status.
 
-- **Service Provider Dashboard**: View requests, send offers, update status. 
+**Evaluation**
 
-- **Messaging System**: Secure communication. 
+- Functionality, security features for transactions.
+- User experience and backend integration.
+- Additional features such as service ratings.
 
-- **Cloud Storage**: For agreements, event details, contracts. 
-
-- **Payment Gateway**: Secure transactions. 
-
-  
-
-#### Tech Stack 
-
-- Any frontend language. 
-
-- Firebase for the backend. 
-
-  
-
-#### Checklist 
-
-- Separate authentication for Admins, Seekers, and Providers. 
-
-- CRUD operations for requests and offers. 
-
-- Secure messaging. 
-
-- Real-time updates for status changes. 
-
-- Notifications for new requests and offers. 
-
-  
-
-#### Evaluation 
-
-- Functionality, security, and user experience. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
---- 
-
-  
+---

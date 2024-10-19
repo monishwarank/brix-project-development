@@ -1,63 +1,49 @@
-###  **Property Rental Management Platform** 
+# Property Rental Management Platform
 
-  
+**Project Description**
 
-#### Project Description 
+A web-based platform that connects property owners and tenants. Property owners can list their rental properties, and tenants can search for, apply for, and manage rental agreements.
 
-A web-based platform connecting property owners and tenants, allowing owners to list rentals and tenants to search, apply, and manage agreements. 
+**Requirements**
 
-  
+- **Admin Dashboard**: Manage users, properties, and reported issues.
 
-#### Requirements 
+- **Property Owner Dashboard**: List properties, update availability, and communicate with potential tenants.
 
-- **Admin Dashboard**: Manage users, properties, and reported issues. 
+- **Tenant Dashboard**: Browse properties, schedule visits, apply for rentals, and make rental payments.
 
-- **Property Owner Dashboard**: List properties, update availability, communicate with tenants. 
+- **Booking and Rental Agreement Management**: For handling agreements.
 
-- **Tenant Dashboard**: Browse properties, schedule visits, apply for rentals, make payments. 
+- **Review and Feedback System**: For properties and landlords.
 
-- **Rental Management**: Booking and agreement management. 
+**Tech Stack**
 
-- **Feedback System**: Review properties and landlords. 
+- Any frontend language.
 
-  
+- Firebase for the database.
 
-#### Tech Stack 
+**Checklist**
 
-- Any frontend language. 
+- Separate authentication for Admins, Property Owners, and Tenants.
 
-- Firebase for the database. 
+- CRUD operations for property listings and rental applications.
 
-  
+- Rental status updates (Available, Pending, Rented).
 
-#### Checklist 
+- Payment history tracking.
 
-- Separate authentication for Admins, Property Owners, and Tenants. 
+**Evaluation**
 
-- CRUD operations for properties and rental applications. 
+- Project completion and usability.
 
-- Rental status updates (Available, Pending, Rented). 
+- Frontend and backend connectivity.
 
-- Payment history tracking. 
+- Additional features such as rental agreement signing and payment gateways.
 
-  
+- Creativity add-ons earn extra marks.
 
-#### Evaluation 
+**References**
 
-- Usability and project completion. 
+- [NoBroker](https://www.nobroker.in/)
 
-- Frontend and backend connectivity. 
-
-- Extra features like agreement signing and payment gateways add value. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
-#### Reference 
-
-- [NoBroker](https://www.nobroker.in/) 
-
-  
-
---- 
+---

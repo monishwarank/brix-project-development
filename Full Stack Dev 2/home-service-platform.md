@@ -1,57 +1,45 @@
-### **On-Demand Home Services Platform** 
+# On-Demand Home Services Platform
 
-  
+**Project Description**
 
-#### Project Description 
+A platform for users to request various home services, such as cleaning, plumbing, and electrical work. Service providers can register to offer their services, and customers can hire them based on reviews and ratings.
 
-A platform for users to request home services (e.g., cleaning, plumbing), where service providers register to offer their services. 
+**Requirements**
 
-  
+- **Admin Dashboard**: Manage service categories, providers, and customer issues.
 
-#### Requirements 
+- **User Dashboard**: Browse services, book a service provider, and track service status (Requested, In Progress, Completed).
 
-- **Admin Dashboard**: Manage categories, providers, and issues. 
+- **Service Provider Dashboard**: View service requests, update job status, and receive payments.
 
-- **User Dashboard**: Browse services, book providers, track job status (Requested, In Progress, Completed). 
+- **Review and Rating System**: For services.
 
-- **Service Provider Dashboard**: View requests, update job status, receive payments. 
+- **Notification System**: For booking updates.
 
-- **Review System**: For services. 
+**Tech Stack**
 
-- **Notification System**: For booking updates. 
+- Any frontend language.
 
-  
+- Firebase for the database.
 
-#### Tech Stack 
+**Checklist**
 
-- Any frontend language. 
+- Separate authentication for Admins, Users, and Service Providers.
 
-- Firebase for the database. 
+- CRUD operations for service bookings.
 
-  
+- Real-time updates for job status and payments.
 
-#### Checklist 
+- Notifications for job progress.
 
-- Separate authentication for Admins, Users, and Providers. 
+**Evaluation**
 
-- CRUD operations for bookings. 
+- Complete implementation of the system.
 
-- Real-time updates for job status/payments. 
+- Good user interface and backend integration.
 
-- Notifications for progress. 
+- Additional features like payment tracking.
 
-  
+- Creativity add-ons earn extra marks.
 
-#### Evaluation 
-
-- System implementation completeness. 
-
-- UI and backend integration quality. 
-
-- Features like payment tracking and service history add extra value. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
---- 
+---

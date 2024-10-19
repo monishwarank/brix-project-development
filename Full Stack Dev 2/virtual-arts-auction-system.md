@@ -1,57 +1,32 @@
-### **Virtual Art Gallery and Auction System** 
+# Virtual Art Gallery and Auction System
 
-  
+**Project Description**  
+A web-based platform where artists can display their artwork in a virtual gallery. Users can view art pieces, participate in auctions, and place bids on art.
 
-#### Project Description 
+**Requirements**
 
-A web-based platform for artists to display their artwork in a virtual gallery, where users can view and participate in art auctions. 
+- **Admin Dashboard**: Manage users, monitor auctions, and resolve disputes.
+- **Artist Dashboard**: Upload artwork, set auction details, and track bids.
+- **User Dashboard**: View the gallery, place bids, and purchase artwork.
+- **Cloud Storage Integration**: For storing artwork images.
+- **Real-Time Updates**: For bids, auction status, and notifications.
 
-  
+**Tech Stack**
 
-#### Requirements 
+- Any frontend language.
+- Firebase for the database.
 
-- **Admin Dashboard**: Manage users, monitor auctions, resolve disputes. 
+**Checklist**
 
-- **Artist Dashboard**: Upload artwork, set auction details, track bids. 
+- Separate authentication for Admins, Artists, and Users.
+- CRUD operations for artwork, auctions, and bids.
+- Real-time updates for bid tracking.
+- Notifications for auction outcomes.
 
-- **User Dashboard**: View gallery, place bids, purchase art. 
+**Evaluation**
 
-- **Cloud Storage**: For artwork images. 
+- Completeness of auction functionalities.
+- User experience in the virtual gallery.
+- Additional features like live bidding.
 
-- **Real-time Updates**: For bids and auction status. 
-
-  
-
-#### Tech Stack 
-
-- Any frontend language. 
-
-- Firebase for the backend. 
-
-  
-
-#### Checklist 
-
-- Separate authentication for Admins, Artists, and Users. 
-
-- CRUD operations for artwork, auctions, and bids. 
-
-- Real-time updates for bid tracking. 
-
-- Notifications for auction outcomes. 
-
-  
-
-#### Evaluation 
-
-- Completeness of functionalities. 
-
-- User experience in the gallery. 
-
-- Backend integration. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
---- 
+---
