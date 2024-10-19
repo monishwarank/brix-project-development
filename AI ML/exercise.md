@@ -15,10 +15,10 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Head-rotate](https://github.com/monishwarank/brix-project-development/blob/main/gifs/head-rotate.gif)
+   (https://github.com/monishwarank/brix-project-development/blob/main/gifs/head-rotate.gif)
 
 2. **Jump**  
-   ![Jump](https://github.com/monishwarank/brix-project-development/blob/main/gifs/jump.gif)
+   ![Jump](https://media1.tenor.com/m/MBDLgfSd_UgAAAAC/the-end-gif.gif)
 
 3. **alternate Toe Touch**  
    ![alternate Toe Touch](https://github.com/monishwarank/brix-project-development/blob/main/gifs/opp-toe-touch.gif)
