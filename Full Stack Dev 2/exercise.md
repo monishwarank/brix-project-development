@@ -16,7 +16,8 @@ An intermediate-level Python software designed to help users perform fitness exe
 **List of Exercises**
 
 1. **Push-ups**  
-   ![Push-ups](../gifs/push-ups.mp4)
+   ![Push-ups](https://www.bing.com/images/search?view=detailV2&ccid=flGPvs%2fe&id=6B082C880153943C31EC9C2980F4A91109C7CCA8&thid=OIP.flGPvs_evv4We30iKmku_QHaFY&mediaurl=https%3a%2f%2fmedia.tenor.com%2frDvOzNlvCVcAAAAC%2fpush-up-guy.gif&exph=362&expw=498&q=pushups+gif+vector&simid=607999874830586260&FORM=IRPRST&ck=AECAACC8E7DAB00A1069607A505D3921&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
+
 2. **Head Rotation**  
    ![Head Rotation](../gifs/head-rotate.mp4)
 
