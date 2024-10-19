@@ -1,53 +1,41 @@
-### **Pressing Management System (Ironing Clothes)** 
+Pressing Management System (Ironing Clothes) 
 
-  
+ 
 
-#### Project Description 
+Project Description 
 
 A complete intermediate website for users to find nearby pressers (iron shop owners) and request ironing services. 
 
-  
+Requirements 
 
-#### Requirements 
+Admin Dashboard: Manage all platform activities. 
 
-- **Admin Dashboard**: Manage all platform activities. 
+User Dashboard: Login to find nearby pressers, request services, and track order progress (e.g., "Order Accepted," "Clothes Taken for Pressing," "In Progress," "Completed," "Out for Delivery"). 
 
-- **User Dashboard**: Login to find nearby pressers, request services, and track order progress (e.g., "Order Accepted," "Clothes Taken for Pressing," "In Progress," "Completed," "Out for Delivery"). 
+Presser Dashboard: Accept orders, view order addresses, update progress, handle billing, and receive reviews/ratings. 
 
-- **Presser Dashboard**: Accept orders, view order addresses, update progress, handle billing, and receive reviews/ratings. 
+Tech Stack 
 
-  
+Any frontend language. 
 
-#### Tech Stack 
+Firebase for the database. 
 
-- Any frontend language. 
+Checklist 
 
-- Firebase for the database. 
+Separate authentication for Admins, Users, and Pressers. 
 
-  
+CRUD operations for customer requests (Presser Side). 
 
-#### Checklist 
+Estimated time for returns. 
 
-- Separate authentication for Admins, Users, and Pressers. 
+Evaluation 
 
-- CRUD operations for customer requests (Presser Side). 
+Project completion. 
 
-- Estimated time for returns. 
+Frontend and database connectivity. 
 
-  
+Additional backend features for extra marks. 
 
-#### Evaluation 
+Creativity add-ons earn extra marks. 
 
-- Project completion. 
-
-- Frontend and database connectivity. 
-
-- Additional backend features for extra marks. 
-
-- Creativity add-ons earn extra marks. 
-
-  
-
---- 
-
-  
+ 
