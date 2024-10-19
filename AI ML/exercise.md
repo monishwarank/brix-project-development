@@ -1,14 +1,13 @@
 # Fitness Software
 
 **Project Description**  
-An intermediate-level Python software designed to help users perform fitness exercises. It includes an authentication system with options for advanced recognition methods and tracks exercise progress through camera-based monitoring.
+An intermediate-level software designed to help users perform fitness exercises. It includes an authentication system with options for advanced recognition methods and tracks exercise progress through camera-based monitoring.
 
 **Requirements**
 
 - **Authentication System**: Can use advanced methods like eye, face, or voice recognition for extra points, or standard authentication (user ID and password).
 - **Exercise Monitoring**:
   - Displays 5 exercises, with animations guiding the user.
-  - The camera tracks the user's movements, counting repetitions only when performed correctly.
   - Each exercise transitions to a 10-second break before moving to the next.
 - **Completion Screen**: A congratulatory message appears after all exercises are completed.
 - **Data Management**: Store exercise data in Firebase or export it to an Excel sheet.
@@ -16,9 +15,9 @@ An intermediate-level Python software designed to help users perform fitness exe
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Head Rotation](../gifs/head-rotate.mp4)
+   ![Head Rotation](https://www.behance.net/gallery/51295485/WORKOUT/modules/303741851)
 
-2.  **Jump**  
+2. **Jump**  
    ![Jump](../gifs/jump.mp4)
 
 3. **alternate Toe Touch**  
