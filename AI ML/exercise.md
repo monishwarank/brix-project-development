@@ -15,7 +15,7 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Head Rotation](https://www.behance.net/gallery/51295485/WORKOUT/modules/303741851)
+   ![Jump](https://www.behance.net/gallery/51295485/WORKOUT/modules/303741851.gif)
 
 2. **Jump**  
    ![Jump](../gifs/jump.mp4)
