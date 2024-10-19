@@ -18,16 +18,16 @@ An intermediate-level software designed to help users perform fitness exercises.
    ![Head-rotate](https://github.com/monishwarank/brix-project-development/blob/main/gifs/head-rotate.gif)
 
 2. **Jump**  
-   ![Jump](../gifs/jump.mp4)
+   ![Jump](https://github.com/monishwarank/brix-project-development/blob/main/gifs/jump.gif)
 
 3. **alternate Toe Touch**  
-   ![alternate Toe Touch](../gifs/opp-toe-touch.mp4)
+   ![alternate Toe Touch](https://github.com/monishwarank/brix-project-development/blob/main/gifs/opp-toe-touch.gif)
 
 4. **Sit-ups**  
-   ![Sit-ups](../gifs/situps.mp4)
+   ![Sit-ups](https://github.com/monishwarank/brix-project-development/blob/main/gifs/situps.gif)
 
 5. **Push-ups**  
-   ![Push-ups](../gifs/push-ups.mp4)
+   ![Push-ups](https://github.com/monishwarank/brix-project-development/blob/main/gifs/push-ups.gif)
 
 **Checklist**
 
