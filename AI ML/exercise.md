@@ -15,19 +15,19 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   (https://github.com/monishwarank/brix-project-development/blob/main/gifs/head-rotate.gif)
+   ![Head Rotation](https://media.baamboozle.com/uploads/images/168083/1607615217_36941.gif)
 
 2. **Jump**  
-   ![Jump](https://media1.tenor.com/m/MBDLgfSd_UgAAAAC/the-end-gif.gif)
+   ![Jump](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6e20ba80486129.5ce2e67ba3555.gif)
 
 3. **alternate Toe Touch**  
-   ![alternate Toe Touch](https://github.com/monishwarank/brix-project-development/blob/main/gifs/opp-toe-touch.gif)
+   ![alternate Toe Touch](https://firebasestorage.googleapis.com/v0/b/clix-mra.appspot.com/o/Future%20delete%2FVID_20241019_225914_244.mp4?alt=media&token=98a21985-7f45-4cf1-8d87-354b9f999aed.gif)
 
 4. **Sit-ups**  
-   ![Sit-ups](https://github.com/monishwarank/brix-project-development/blob/main/gifs/situps.gif)
+   ![Sit-ups](https://i.gifer.com/VUFn.gif)
 
 5. **Push-ups**  
-   ![Push-ups](https://github.com/monishwarank/brix-project-development/blob/main/gifs/push-ups.gif)
+   ![Push-ups](https://mir-s3-cdn-cf.behance.net/project_modules/fs/294d6b51295485.58e8c1fd69876.gif)
 
 **Checklist**
 
