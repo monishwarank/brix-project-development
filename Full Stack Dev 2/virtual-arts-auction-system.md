@@ -1,7 +1,7 @@
 # Virtual Art Gallery and Auction System
 
 **Project Description**  
-A web-based platform where artists can display their artwork in a virtual gallery. Users can view art pieces, participate in auctions, and place bids on art.
+A platform where artists can display their artwork in a virtual gallery. Users can view art pieces, participate in auctions, and place bids on art.
 
 **Requirements**
 

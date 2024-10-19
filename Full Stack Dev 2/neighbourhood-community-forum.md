@@ -2,7 +2,7 @@
 
 **Project Description**
 
-A web platform that serves as a social hub for neighborhood communities, allowing residents to discuss local issues, share news, and organize events.
+A project that serves as a social hub for neighborhood communities, allowing residents to discuss local issues, share news, and organize events.
 
 **Requirements**
 

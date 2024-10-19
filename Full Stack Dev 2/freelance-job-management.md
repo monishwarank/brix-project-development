@@ -2,7 +2,7 @@
 
 **Project Description**
 
-An intermediate web application where freelancers can find job postings, apply for projects, and manage ongoing work. Clients can post projects, hire freelancers, and track progress.
+An intermediate project where freelancers can find job postings, apply for projects, and manage ongoing work. Clients can post projects, hire freelancers, and track progress.
 
 **Requirements**
 
@@ -30,7 +30,7 @@ An intermediate web application where freelancers can find job postings, apply f
 
 - Real-time updates for project status.
 
-- Payment tracking.
+- Payment tracking.(demo)
 
 **Evaluation**
 
@@ -46,6 +46,8 @@ An intermediate web application where freelancers can find job postings, apply f
 
 - [Upwork](https://www.upwork.com/freelance-jobs/)
 
-- [Truelancer](https://www.truelancer.com/freelance-jobs/)
+- [Fiverr] https://www.fiverr.com/
+
+- [Freelancer] https://www.freelancer.in/
 
 ---

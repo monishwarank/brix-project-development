@@ -2,7 +2,7 @@
 
 **Project Description**
 
-A web-based platform that connects property owners and tenants. Property owners can list their rental properties, and tenants can search for, apply for, and manage rental agreements.
+A platform that connects property owners and tenants. Property owners can list their rental properties, and tenants can search for, apply for, and manage rental agreements.
 
 **Requirements**
 

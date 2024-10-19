@@ -1,7 +1,7 @@
 # Catering Management System
 
 **Project Description**  
-An intermediate-level web application that allows individuals or organizations to post catering service requirements for events and helps catering service providers connect with them.
+An intermediate-level project that allows individuals or organizations to post catering service requirements for events and helps catering service providers connect with them.
 
 **Requirements**
 
@@ -10,7 +10,7 @@ An intermediate-level web application that allows individuals or organizations t
 - **Service Provider Dashboard**: View requests, send offers, and update service status.
 - **Secure Messaging System**: For communication.
 - **Cloud Storage Integration**: For service agreements and event details.
-- **Payment Gateway Integration**: For secure transactions.
+- **Payment Gateway Integration page**: For secure transactions. (Model Page)
 
 **Tech Stack**
 
@@ -26,7 +26,7 @@ An intermediate-level web application that allows individuals or organizations t
 
 **Evaluation**
 
-- Functionality, security features for transactions.
+- Functionality, security features for transactions (Model).
 - User experience and backend integration.
 - Additional features such as service ratings.
 

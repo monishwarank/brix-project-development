@@ -1,7 +1,7 @@
 # Pressing Management System (Ironing Clothes)
 
 **Project Description**  
-A complete intermediate website for users to find nearby pressers (iron shop owners) and request ironing services.
+A complete intermediate project for users to find nearby pressers (iron shop owners) and request ironing services.
 
 **Requirements**
 

@@ -4,7 +4,7 @@
 
 **Project Description**   
 
-A web application that allows organizations to allocate projects to team members, track progress, and manage collaboration. Project leads can oversee multiple projects, monitor tasks, and ensure timely completion. 
+A project that allows the organizations to allocate projects to team members, track progress, and manage collaboration. Project leads can oversee multiple projects, monitor tasks, and ensure timely completion. 
 
   
 
