@@ -15,19 +15,20 @@ An intermediate-level Python software designed to help users perform fitness exe
 
 **List of Exercises**
 
-1. **Push-ups**  
-   ![Push-ups](../gifs/push-ups.mp4)
-2. **Head Rotation**  
+1. **Head Rotation**  
    ![Head Rotation](../gifs/head-rotate.mp4)
 
-3. **Sit-ups**  
+2.  **Jump**  
+   ![Jump](../gifs/jump.mp4)
+
+3. **alternate Toe Touch**  
+   ![alternate Toe Touch](../gifs/opp-toe-touch.mp4)
+
+4. **Sit-ups**  
    ![Sit-ups](../gifs/situps.mp4)
 
-4. **Opposite Toe Touch**  
-   ![Opposite Toe Touch](../gifs/opp-toe-touch.mp4)
-
-5. **Jump**  
-   ![Jump](../gifs/jump.mp4)
+5. **Push-ups**  
+   ![Push-ups](../gifs/push-ups.mp4)
 
 **Checklist**
 
