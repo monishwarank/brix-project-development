@@ -15,13 +15,13 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Head Rotation](https://media.baamboozle.com/uploads/images/168083/1607615217_36941.gif)
+   ![Head Rotation](https://www.bing.com/images/search?view=detailV2&ccid=OlYmoGgU&id=34C5E433F60C118ACE2635D5F30003BD3CC74F52&thid=OIP.OlYmoGgUM7TJcPmT4HoG0QHaE8&mediaurl=https%3a%2f%2fwww.fabhow.com%2fwp-content%2fuploads%2f2018%2f09%2fneck-rotation-stiff-neck.gif&exph=667&expw=1000&q=head+rotation+exercise+gif&simid=608019365424352702&FORM=IRPRST&ck=4AE6411D816166B565FCD5DED9150AFD&selectedIndex=1&itb=0)
 
 2. **Jump**  
    ![Jump](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6e20ba80486129.5ce2e67ba3555.gif)
 
 3. **alternate Toe Touch**  
-   ![alternate Toe Touch](https://firebasestorage.googleapis.com/v0/b/clix-mra.appspot.com/o/Future%20delete%2FVID_20241019_225914_244.mp4?alt=media&token=98a21985-7f45-4cf1-8d87-354b9f999aed.gif)
+   ![alternate Toe Touch](https://www.spotebi.com/wp-content/uploads/2015/02/bent-over-twist-exercise-illustration.gif)
 
 4. **Sit-ups**  
    ![Sit-ups](https://i.gifer.com/VUFn.gif)
