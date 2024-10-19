@@ -15,7 +15,7 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Jump](https://www.behance.net/gallery/51295485/WORKOUT/modules/303741851.gif)
+   ![Head-rotate](https://github.com/monishwarank/brix-project-development/blob/main/gifs/head-rotate.gif)
 
 2. **Jump**  
    ![Jump](../gifs/jump.mp4)
