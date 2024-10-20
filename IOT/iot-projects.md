@@ -3,6 +3,8 @@
 **Instruction**  
 Every project must collect data from virtual sensors or components and store the data in a Firebase database.
 
+Select any one project and do by yourself. your own ideas can give you more marks 
+
 ## Project List
 
 1. **Smart Greenhouse Monitoring**
