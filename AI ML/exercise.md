@@ -15,7 +15,7 @@ An intermediate-level software designed to help users perform fitness exercises.
 **List of Exercises**
 
 1. **Head Rotation**  
-   ![Head Rotation](https://www.bing.com/images/search?view=detailV2&ccid=OlYmoGgU&id=34C5E433F60C118ACE2635D5F30003BD3CC74F52&thid=OIP.OlYmoGgUM7TJcPmT4HoG0QHaE8&mediaurl=https%3a%2f%2fwww.fabhow.com%2fwp-content%2fuploads%2f2018%2f09%2fneck-rotation-stiff-neck.gif&exph=667&expw=1000&q=head+rotation+exercise+gif&simid=608019365424352702&FORM=IRPRST&ck=4AE6411D816166B565FCD5DED9150AFD&selectedIndex=1&itb=0)
+   ![Head Rotation](https://www.fabhow.com/wp-content/uploads/2018/09/neck-rotation-stiff-neck.gif)
 
 2. **Jump**  
    ![Jump](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6e20ba80486129.5ce2e67ba3555.gif)
